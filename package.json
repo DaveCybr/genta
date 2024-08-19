@@ -2,7 +2,7 @@
     "private": true,
     "scripts": {
         "dev": "vite",
-        "build": "vite build",
+        "build": "npm install",
         "format": "prettier --write resources/**/*.blade.php"
     },
     "devDependencies": {
